@@ -17,5 +17,5 @@ Planeta Burger es una página web dedicada a ofrecer hamburguesas de diversos ti
 
 * HTML5: Estructura básica de la página web.
 * CSS3: Diseño responsivo, animaciones y estilo visual del sitio.
-* JavaScript(proximamente): Para interactividad, dinamismo y el menú hamburguesa.
+* JavaScript: Para interactividad, dinamismo, el menú hamburguesa y el carrito de compras.
 * Google Maps API: Para mostrar la ubicación del local.
